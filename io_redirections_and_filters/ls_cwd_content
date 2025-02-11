@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 trice97 trice97 4096 Feb 11 21:49 .
+drwxr-xr-x 6 trice97 trice97 4096 Feb 11 16:06 ..
+-rwxr-xr-x 1 trice97 trice97   32 Feb 11 16:06 0-hello_world
+-rwxr-xr-x 1 trice97 trice97   28 Feb 11 16:46 1-confused_smiley
+-rwxr-xr-x 1 trice97 trice97   28 Feb 11 16:06 2-hellofile
+-rwxr-xr-x 1 trice97 trice97   39 Feb 11 16:06 3-twofiles
+-rwxr-xr-x 1 trice97 trice97   35 Feb 11 16:06 4-lastlines
+-rwxr-xr-x 1 trice97 trice97   35 Feb 11 16:06 5-firstlines
+-rwxr-xr-x 1 trice97 trice97   36 Feb 11 16:06 6-third_line
+-rwxr-xr-x 1 trice97 trice97   98 Feb 11 21:39 7-file
+-rwxr-xr-x 1 trice97 trice97   36 Feb 11 21:47 8-cwd-state
+-rw-r--r-- 1 trice97 trice97   10 Feb 11 16:06 README.md
+-rw-r--r-- 1 trice97 trice97   12 Feb 11 21:03 \*\'"Best School"\'\*$?*****:)
+-rw-r--r-- 1 trice97 trice97   12 Feb 11 21:11 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 trice97 trice97   12 Feb 11 21:39 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 trice97 trice97   12 Feb 11 21:01 \*\\Best School'\*$?*****:
+-rw-r--r-- 1 trice97 trice97    0 Feb 11 21:55 ls_cwd_content
