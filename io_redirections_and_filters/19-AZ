@@ -1,0 +1,2 @@
+#!bash
+echo "input_string" | tr Ac Ze
