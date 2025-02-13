@@ -1,2 +1,3 @@
 #!/bin/bash
-MY_GLOBAL_VAR="BEST School"
+export BEST="School\$"
+
